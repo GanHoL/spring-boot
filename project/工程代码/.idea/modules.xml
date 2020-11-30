@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01-springboot-web/01-springboot-web.iml" filepath="$PROJECT_DIR$/01-springboot-web/01-springboot-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-springboot-java/02-springboot-java.iml" filepath="$PROJECT_DIR$/02-springboot-java/02-springboot-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-springboot-mybatis/03-springboot-mybatis.iml" filepath="$PROJECT_DIR$/03-springboot-mybatis/03-springboot-mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-springboot-redis/04-springboot-redis.iml" filepath="$PROJECT_DIR$/04-springboot-redis/04-springboot-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-springboot-dubbo-consumer/05-springboot-dubbo-consumer.iml" filepath="$PROJECT_DIR$/05-springboot-dubbo-consumer/05-springboot-dubbo-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-springboot-dubbo-interface/05-springboot-dubbo-interface.iml" filepath="$PROJECT_DIR$/05-springboot-dubbo-interface/05-springboot-dubbo-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/工程代码.iml" filepath="$PROJECT_DIR$/.idea/工程代码.iml" />
+    </modules>
+  </component>
+</project>

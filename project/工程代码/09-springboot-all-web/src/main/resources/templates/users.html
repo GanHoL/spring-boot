@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" th:href="@{/css/bootstrap.min.css}">
+    <script th:src="@{/js/jquery.min.js}"></script>
+    <script th:src="@{/js/bootstrap.min.js}"></script>
+    <title>SptingBoot综合案例</title>
+</head>
+
+<body th:inline="text" style="margin:35px;">
+
+<table class="table table-striped">
+    <caption><a th:href="@{/all/user}">添加用户</a></caption>
+    <thead>
+    <tr>
+        <th>序号</th>
+        <th>昵称</th>
+        <th>手机</th>
+        <th>邮箱</th>
+        <th>住址</th>
+        <th>管理</th>
+    </tr>
+    </thead>
+
+    <tbody>
+    <tr th:each="userInfo : ${userInfoList}">
+        <td th:text="${userInfoStat.count}"></td>
+        <td th:text="${userInfo.nick}"></td>
+        <td>[[${userInfo.phone}]]</td>
+        <td>[[${userInfo.email}]]</td>
+        <td>[[${userInfo.address}]]</td>
+        <td>
+            <a th:href="@{'/all/user/' + ${userInfo.id}}">修改</a>
+            <a th:href="'javascript:deleteUser('+${userInfo.id}+')'">删除</a>
+        </td>
+    </tr>
+
+    <tr th:style="'text-align:center;'">
+        <td colspan="6">
+            <span th:if="${curPage le 1}">
+                首页
+                上一页
+            </span>
+            <span th:if="${curPage gt 1}">
+                <a th:href="@{/all/users}">首页</a>
+                <a th:href="@{'/all/users?p=' + ${curPage - 1}}">上一页</a>
+            </span>
+            <span th:if="${curPage ge totalPages}">
+                下一页
+                尾页
+            </span>
+            <span th:if="${curPage lt totalPages}">
+                <a th:href="@{'/all/users?p=' + ${curPage + 1}}">下一页</a>
+                <a th:href="@{'/all/users?p=' + ${totalPages}}">尾页</a>
+            </span>
+        </td>
+    </tr>
+    </tbody>
+</table>
+
+<form th:id="deleteForm" th:method="delete" th:style="'display:none;'"></form>
+<script th:type="'text/javascript'" th:inline="javascript">
+    //删除用户
+    function deleteUser(id) {
+        var url = [[${#request.getContextPath()}]] + "/all/user/"+id;
+        $("#deleteForm").attr("action", url);
+        $("#deleteForm").submit();
+    }
+</script>
+</body>
+</html>

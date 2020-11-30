@@ -1,0 +1,1572 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fdc3d103-8b25-4a28-a96a-d6c75c22da99" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/01-springboot-web/target/" />
+    <ignored path="$PROJECT_DIR$/04-springboot-redis/target/" />
+    <ignored path="$PROJECT_DIR$/02-springboot-java/target/" />
+    <ignored path="$PROJECT_DIR$/03-springboot-mybatis/target/" />
+    <ignored path="$PROJECT_DIR$/05-springboot-dubbo-consumer/target/" />
+    <ignored path="$PROJECT_DIR$/05-springboot-dubbo-interface/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="StudentController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/04-springboot-redis/src/main/java/com/wkcto/springboot/controller/StudentController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="318">
+              <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StudentServiceImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/04-springboot-redis/src/main/java/com/wkcto/springboot/service/impl/StudentServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="44" column="33" lean-forward="false" selection-start-line="44" selection-start-column="33" selection-end-line="44" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StudentService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/04-springboot-redis/src/main/java/com/wkcto/springboot/service/StudentService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="13" column="17" lean-forward="false" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RedisTemplate.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.0.9.RELEASE/spring-data-redis-2.0.9.RELEASE.jar!/org/springframework/data/redis/core/RedisTemplate.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="775" column="33" lean-forward="false" selection-start-line="775" selection-start-column="33" selection-end-line="775" selection-end-column="33" />
+              <folding>
+                <marker date="1606473596713" expanded="false" signature="0:104" ph="/.../" />
+                <marker date="1606473596713" expanded="false" signature="159:2158" ph="..." />
+                <marker date="1606473596713" expanded="true" signature="3360:3367" ph="{}" />
+                <marker date="1606473596713" expanded="true" signature="3406:4746" ph="{...}" />
+                <marker date="1606473596713" expanded="false" signature="4811:4822" ph=" { " />
+                <marker date="1606473596713" expanded="false" signature="4877:4883" ph=" }" />
+                <marker date="1606473596713" expanded="true" signature="4975:5044" ph="{...}" />
+                <marker date="1606473596713" expanded="true" signature="5154:6583" ph="{...}" />
+                <marker date="1606473596713" expanded="true" signature="6638:7179" ph="{...}" />
+                <marker date="1606473596713" expanded="true" signature="7250:7326" ph="{...}" />
+                <marker date="1606473596713" expanded="true" signature="7444:8894" ph="{...}" />
+                <marker date="1606473596713" expanded="true" signature="7878:8774" ph="{...}" />
+                <marker date="1606473596713" expanded="true" signature="8962:9037" ph="{...}" />
+                <marker date="1606473596713" expanded="true" signature="9152:10036" ph="{...}" />
+                <marker date="1606473596713" expanded="true" signature="9204:10028" ph="{...}" />
+                <marker date="1606473596713" expanded="true" signature="10116:10187" ph="{...}" />
+                <marker date="1606473596713" expanded="true" signature="10339:10444" ph="{...}" />
+                <marker date="1606473596713" expanded="true" signature="10536:10999" ph="{...}" />
+                <marker date="1606473596713" expanded="false" signature="11062:11073" ph=" { " />
+                <marker date="1606473596713" expanded="false" signature="11102:11108" ph=" }" />
+                <marker date="1606473596713" expanded="true" signature="11187:11443" ph="{...}" />
+                <marker date="1606473596713" expanded="true" signature="11552:11586" ph="{...}" />
+                <marker date="1606473596713" expanded="true" signature="11710:11740" ph="{...}" />
+                <marker date="1606473596713" expanded="false" signature="11781:11792" ph=" { " />
+                <marker date="1606473596713" expanded="false" signature="11821:11827" ph=" }" />
+                <marker date="1606473596713" expanded="false" signature="11890:11901" ph=" { " />
+                <marker date="1606473596713" expanded="false" signature="11942:11948" ph=" }" />
+                <marker date="1606473596713" expanded="false" signature="11996:12007" ph=" { " />
+                <marker date="1606473596713" expanded="false" signature="12043:12049" ph=" }" />
+                <marker date="1606473596713" expanded="true" signature="12127:12198" ph="{...}" />
+                <marker date="1606473596713" expanded="false" signature="12266:12277" ph=" { " />
+                <marker date="1606473596713" expanded="false" signature="12307:12313" ph=" }" />
+                <marker date="1606473596713" expanded="false" signature="12382:12393" ph=" { " />
+                <marker date="1606473596713" expanded="false" signature="12429:12435" ph=" }" />
+                <marker date="1606473596713" expanded="false" signature="12500:12511" ph=" { " />
+                <marker date="1606473596713" expanded="false" signature="12543:12549" ph=" }" />
+                <marker date="1606473596713" expanded="false" signature="12599:12610" ph=" { " />
+                <marker date="1606473596713" expanded="false" signature="12636:12642" ph=" }" />
+                <marker date="1606473596713" expanded="false" signature="12709:12720" ph=" { " />
+                <marker date="1606473596713" expanded="false" signature="12754:12760" ph=" }" />
+                <marker date="1606473596713" expanded="false" signature="12812:12823" ph=" { " />
+                <marker date="1606473596713" expanded="false" signature="12851:12857" ph=" }" />
+                <marker date="1606473596713" expanded="false" signature="12911:12922" ph=" { " />
+                <marker date="1606473596713" expanded="false" signature="12952:12958" ph=" }" />
+                <marker date="1606473596713" expanded="true" signature="13035:13094" ph="{...}" />
+                <marker date="1606473596713" expanded="false" signature="13150:13161" ph=" { " />
+                <marker date="1606473596713" expanded="false" signature="13193:13199" ph=" }" />
+                <marker date="1606473596713" expanded="true" signature="13280:13343" ph="{...}" />
+                <marker date="1606473596713" expanded="false" signature="13401:13412" ph=" { " />
+                <marker date="1606473596713" expanded="false" signature="13441:13447" ph=" }" />
+                <marker date="1606473596713" expanded="true" signature="13527:13584" ph="{...}" />
+                <marker date="1606473596713" expanded="false" signature="13653:13664" ph=" { " />
+                <marker date="1606473596713" expanded="false" signature="13701:13707" ph=" }" />
+                <marker date="1606473596713" expanded="true" signature="13747:13936" ph="{...}" />
+                <marker date="1606473596713" expanded="false" signature="13978:13989" ph=" { " />
+                <marker date="1606473596713" expanded="false" signature="14033:14039" ph=" }" />
+                <marker date="1606473596713" expanded="true" signature="14083:14228" ph="{...}" />
+                <marker date="1606473596713" expanded="true" signature="14279:14540" ph="{...}" />
+                <marker date="1606473596713" expanded="true" signature="14585:14683" ph="{...}" />
+                <marker date="1606473596713" expanded="true" signature="14917:16213" ph="{...}" />
+                <marker date="1606473596713" expanded="true" signature="16304:16751" ph="{...}" />
+                <marker date="1606473596713" expanded="true" signature="16868:17366" ph="{...}" />
+                <marker date="1606473596713" expanded="true" signature="17399:17660" ph="{...}" />
+                <marker date="1606473596713" expanded="true" signature="17727:17846" ph="{...}" />
+                <marker date="1606473596713" expanded="true" signature="17885:18022" ph="{...}" />
+                <marker date="1606473596713" expanded="true" signature="18057:18297" ph="{...}" />
+                <marker date="1606473596713" expanded="true" signature="18158:18226" ph="{...}" />
+                <marker date="1606473596713" expanded="true" signature="18342:18621" ph="{...}" />
+                <marker date="1606473596713" expanded="true" signature="18534:18597" ph="{...}" />
+                <marker date="1606473596713" expanded="true" signature="18656:18824" ph="{...}" />
+                <marker date="1606473596713" expanded="true" signature="18753:18810" ph="{...}" />
+                <marker date="1606473596713" expanded="true" signature="18888:19297" ph="{...}" />
+                <marker date="1606473596713" expanded="true" signature="19049:19283" ph="{...}" />
+                <marker date="1606473596713" expanded="true" signature="19345:19683" ph="{...}" />
+                <marker date="1606473596713" expanded="true" signature="19442:19669" ph="{...}" />
+                <marker date="1606473596713" expanded="true" signature="19748:20066" ph="{...}" />
+                <marker date="1606473596713" expanded="true" signature="19960:20052" ph="{...}" />
+                <marker date="1606473596713" expanded="true" signature="20101:20263" ph="{...}" />
+                <marker date="1606473596713" expanded="true" signature="20195:20249" ph="{...}" />
+                <marker date="1606473596713" expanded="true" signature="20317:20622" ph="{...}" />
+                <marker date="1606473596713" expanded="true" signature="20411:20608" ph="{...}" />
+                <marker date="1606473596713" expanded="true" signature="20658:20954" ph="{...}" />
+                <marker date="1606473596713" expanded="true" signature="20770:20825" ph="{...}" />
+                <marker date="1606473596713" expanded="true" signature="20990:21159" ph="{...}" />
+                <marker date="1606473596713" expanded="true" signature="21087:21145" ph="{...}" />
+                <marker date="1606473596713" expanded="true" signature="21205:21380" ph="{...}" />
+                <marker date="1606473596713" expanded="true" signature="21302:21366" ph="{...}" />
+                <marker date="1606473596713" expanded="true" signature="21407:21539" ph="{...}" />
+                <marker date="1606473596713" expanded="true" signature="21584:21822" ph="{...}" />
+                <marker date="1606473596713" expanded="true" signature="21719:21808" ph="{...}" />
+                <marker date="1606473596713" expanded="true" signature="21878:22116" ph="{...}" />
+                <marker date="1606473596713" expanded="true" signature="22029:22102" ph="{...}" />
+                <marker date="1606473596713" expanded="true" signature="22150:22317" ph="{...}" />
+                <marker date="1606473596713" expanded="true" signature="22248:22303" ph="{...}" />
+                <marker date="1606473596713" expanded="true" signature="22349:22514" ph="{...}" />
+                <marker date="1606473596713" expanded="true" signature="22445:22500" ph="{...}" />
+                <marker date="1606473596713" expanded="true" signature="22593:22850" ph="{...}" />
+                <marker date="1606473596713" expanded="true" signature="22741:22836" ph="{...}" />
+                <marker date="1606473596713" expanded="true" signature="22876:22997" ph="{...}" />
+                <marker date="1606473596713" expanded="true" signature="22915:22983" ph="{...}" />
+                <marker date="1606473596713" expanded="true" signature="23025:23148" ph="{...}" />
+                <marker date="1606473596713" expanded="true" signature="23064:23134" ph="{...}" />
+                <marker date="1606473596713" expanded="true" signature="23179:23362" ph="{...}" />
+                <marker date="1606473596713" expanded="true" signature="23260:23348" ph="{...}" />
+                <marker date="1606473596713" expanded="true" signature="23406:23581" ph="{...}" />
+                <marker date="1606473596713" expanded="true" signature="23492:23567" ph="{...}" />
+                <marker date="1606473596713" expanded="true" signature="23609:23732" ph="{...}" />
+                <marker date="1606473596713" expanded="true" signature="23648:23718" ph="{...}" />
+                <marker date="1606473596713" expanded="false" signature="23777:23788" ph=" { " />
+                <marker date="1606473596713" expanded="false" signature="23834:23840" ph=" }" />
+                <marker date="1606473596713" expanded="true" signature="23937:24290" ph="{...}" />
+                <marker date="1606473596713" expanded="true" signature="24142:24205" ph="{...}" />
+                <marker date="1606473596713" expanded="true" signature="24369:24443" ph="{...}" />
+                <marker date="1606473596713" expanded="true" signature="24572:25340" ph="{...}" />
+                <marker date="1606473596713" expanded="true" signature="25395:25729" ph="{...}" />
+                <marker date="1606473596713" expanded="true" signature="25639:25715" ph="{...}" />
+                <marker date="1606473596713" expanded="true" signature="25781:25911" ph="{...}" />
+                <marker date="1606473596713" expanded="true" signature="25820:25903" ph="{...}" />
+                <marker date="1606473596713" expanded="false" signature="25961:25972" ph=" { " />
+                <marker date="1606473596713" expanded="false" signature="26034:26040" ph=" }" />
+                <marker date="1606473596713" expanded="true" signature="26089:26216" ph="{...}" />
+                <marker date="1606473596713" expanded="true" signature="26128:26208" ph="{...}" />
+                <marker date="1606473596713" expanded="true" signature="26249:26371" ph="{...}" />
+                <marker date="1606473596713" expanded="true" signature="26288:26363" ph="{...}" />
+                <marker date="1606473596713" expanded="false" signature="26423:26434" ph=" { " />
+                <marker date="1606473596713" expanded="false" signature="26476:26482" ph=" }" />
+                <marker date="1606473596713" expanded="true" signature="26527:26666" ph="{...}" />
+                <marker date="1606473596713" expanded="false" signature="26722:26733" ph=" { " />
+                <marker date="1606473596713" expanded="false" signature="26781:26787" ph=" }" />
+                <marker date="1606473596713" expanded="true" signature="26860:26925" ph="{...}" />
+                <marker date="1606473596713" expanded="false" signature="26985:26996" ph=" { " />
+                <marker date="1606473596713" expanded="false" signature="27035:27041" ph=" }" />
+                <marker date="1606473596713" expanded="true" signature="27102:27249" ph="{...}" />
+                <marker date="1606473596713" expanded="true" signature="27296:27439" ph="{...}" />
+                <marker date="1606473596713" expanded="false" signature="27497:27508" ph=" { " />
+                <marker date="1606473596713" expanded="false" signature="27557:27563" ph=" }" />
+                <marker date="1606473596713" expanded="false" signature="27619:27630" ph=" { " />
+                <marker date="1606473596713" expanded="false" signature="27678:27684" ph=" }" />
+                <marker date="1606473596713" expanded="true" signature="27729:27868" ph="{...}" />
+                <marker date="1606473596713" expanded="false" signature="27928:27939" ph=" { " />
+                <marker date="1606473596713" expanded="false" signature="27989:27995" ph=" }" />
+                <marker date="1606473596713" expanded="true" signature="28044:28191" ph="{...}" />
+                <marker date="1606473596713" expanded="false" signature="28249:28260" ph=" { " />
+                <marker date="1606473596713" expanded="false" signature="28309:28315" ph=" }" />
+                <marker date="1606473596713" expanded="true" signature="28362:28505" ph="{...}" />
+                <marker date="1606473596713" expanded="true" signature="28585:28658" ph="{...}" />
+                <marker date="1606473596713" expanded="false" signature="28719:28730" ph=" { " />
+                <marker date="1606473596713" expanded="false" signature="28761:28767" ph=" }" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Application.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/04-springboot-redis/src/main/java/com/wkcto/springboot/Application.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="04-springboot-redis.iml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/04-springboot-redis/04-springboot-redis.iml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mvnw" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/04-springboot-redis/mvnw">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mvnw.cmd" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/04-springboot-redis/mvnw.cmd">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/04-springboot-redis/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-828">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/04-springboot-redis/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="15" column="34" lean-forward="false" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>@Author:蛙课网</find>
+      <find>updateStudent</find>
+      <find>updateByPrimaryKeySelective</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>@Author:GanHoL</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>E:\spring boot\工程代码</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/01-springboot-web/src/main/java/com/wkcto/springboot/model/ConfigInfo.java" />
+        <option value="$PROJECT_DIR$/03-springboot-mybatis/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/03-springboot-mybatis/src/main/java/com/wkcto/springboot/service/impl/StudentServiceImpl.java" />
+        <option value="$PROJECT_DIR$/03-springboot-mybatis/src/main/java/com/wkcto/springboot/service/StudentService.java" />
+        <option value="$PROJECT_DIR$/03-springboot-mybatis/src/main/java/com/wkcto/springboot/controller/StudentController.java" />
+        <option value="$PROJECT_DIR$/04-springboot-redis/src/main/resources/application.properties" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/apache-maven-3.2.1" />
+        <option name="userSettingsFile" value="F:\apache-maven-3.5.0-bin\apache-maven-3.5.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-167" />
+    <option name="y" value="302" />
+    <option name="width" value="1378" />
+    <option name="height" value="733" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Correctness</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Lint</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Performance</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Security</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Usability</id>
+          </State>
+          <State>
+            <id>Android Lint for Kotlin</id>
+          </State>
+          <State>
+            <id>Cloning issuesJava</id>
+          </State>
+          <State>
+            <id>Code maturity issuesJava</id>
+          </State>
+          <State>
+            <id>Code style issuesJava</id>
+          </State>
+          <State>
+            <id>Code style issuesJavaScript</id>
+          </State>
+          <State>
+            <id>CodeSpring CoreSpring</id>
+          </State>
+          <State>
+            <id>Control flow issuesJava</id>
+          </State>
+          <State>
+            <id>Data flow issuesJava</id>
+          </State>
+          <State>
+            <id>Data flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>ECMAScript 6 migration aidsJavaScript</id>
+          </State>
+          <State>
+            <id>Encapsulation issuesJava</id>
+          </State>
+          <State>
+            <id>Error handlingGroovy</id>
+          </State>
+          <State>
+            <id>Finalization issuesJava</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>Groovy</id>
+          </State>
+          <State>
+            <id>ImportsJava</id>
+          </State>
+          <State>
+            <id>Inheritance issuesJava</id>
+          </State>
+          <State>
+            <id>Internationalization issues</id>
+          </State>
+          <State>
+            <id>Internationalization issuesJava</id>
+          </State>
+          <State>
+            <id>J2ME issuesJava</id>
+          </State>
+          <State>
+            <id>JBoss Seam issues</id>
+          </State>
+          <State>
+            <id>JSP Inspections</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java 8Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>Javadoc issuesJava</id>
+          </State>
+          <State>
+            <id>Kotlin</id>
+          </State>
+          <State>
+            <id>Method metricsJava</id>
+          </State>
+          <State>
+            <id>Numeric issuesJava</id>
+          </State>
+          <State>
+            <id>Other problemsKotlin</id>
+          </State>
+          <State>
+            <id>Plugin DevKit</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsGroovy</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsJavaScript</id>
+          </State>
+          <State>
+            <id>Probable bugsJava</id>
+          </State>
+          <State>
+            <id>Probable bugsJavaScript</id>
+          </State>
+          <State>
+            <id>Probable bugsKotlin</id>
+          </State>
+          <State>
+            <id>Spelling</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring CoreSpring</id>
+          </State>
+          <State>
+            <id>Threading issuesGroovy</id>
+          </State>
+          <State>
+            <id>Threading issuesJava</id>
+          </State>
+          <State>
+            <id>TypeScript</id>
+          </State>
+          <State>
+            <id>UI Form Problems</id>
+          </State>
+          <State>
+            <id>Verbose or redundant code constructsJava</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="工程代码" type="b2602c69:ProjectViewProjectNode" />
+              <item name="工程代码" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="工程代码" type="b2602c69:ProjectViewProjectNode" />
+              <item name="工程代码" type="462c0819:PsiDirectoryNode" />
+              <item name="03-springboot-mybatis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="工程代码" type="b2602c69:ProjectViewProjectNode" />
+              <item name="工程代码" type="462c0819:PsiDirectoryNode" />
+              <item name="03-springboot-mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="工程代码" type="b2602c69:ProjectViewProjectNode" />
+              <item name="工程代码" type="462c0819:PsiDirectoryNode" />
+              <item name="03-springboot-mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="工程代码" type="b2602c69:ProjectViewProjectNode" />
+              <item name="工程代码" type="462c0819:PsiDirectoryNode" />
+              <item name="03-springboot-mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="工程代码" type="b2602c69:ProjectViewProjectNode" />
+              <item name="工程代码" type="462c0819:PsiDirectoryNode" />
+              <item name="04-springboot-redis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="工程代码" type="b2602c69:ProjectViewProjectNode" />
+              <item name="工程代码" type="462c0819:PsiDirectoryNode" />
+              <item name="04-springboot-redis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="工程代码" type="b2602c69:ProjectViewProjectNode" />
+              <item name="工程代码" type="462c0819:PsiDirectoryNode" />
+              <item name="04-springboot-redis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="工程代码" type="b2602c69:ProjectViewProjectNode" />
+              <item name="工程代码" type="462c0819:PsiDirectoryNode" />
+              <item name="04-springboot-redis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="工程代码" type="b2602c69:ProjectViewProjectNode" />
+              <item name="工程代码" type="462c0819:PsiDirectoryNode" />
+              <item name="04-springboot-redis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="工程代码" type="b2602c69:ProjectViewProjectNode" />
+              <item name="工程代码" type="462c0819:PsiDirectoryNode" />
+              <item name="04-springboot-redis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="工程代码" type="b2602c69:ProjectViewProjectNode" />
+              <item name="工程代码" type="462c0819:PsiDirectoryNode" />
+              <item name="04-springboot-redis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="工程代码" type="b2602c69:ProjectViewProjectNode" />
+              <item name="工程代码" type="462c0819:PsiDirectoryNode" />
+              <item name="04-springboot-redis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="工程代码" type="b2602c69:ProjectViewProjectNode" />
+              <item name="工程代码" type="462c0819:PsiDirectoryNode" />
+              <item name="04-springboot-redis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="工程代码" type="b2602c69:ProjectViewProjectNode" />
+              <item name="工程代码" type="462c0819:PsiDirectoryNode" />
+              <item name="04-springboot-redis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="工程代码" type="b2602c69:ProjectViewProjectNode" />
+              <item name="工程代码" type="462c0819:PsiDirectoryNode" />
+              <item name="04-springboot-redis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="工程代码" type="b2602c69:ProjectViewProjectNode" />
+              <item name="工程代码" type="462c0819:PsiDirectoryNode" />
+              <item name="04-springboot-redis" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="工程代码" type="b2602c69:ProjectViewProjectNode" />
+              <item name="工程代码" type="462c0819:PsiDirectoryNode" />
+              <item name="05-springboot-dubbo-consumer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="工程代码" type="b2602c69:ProjectViewProjectNode" />
+              <item name="工程代码" type="462c0819:PsiDirectoryNode" />
+              <item name="05-springboot-dubbo-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="工程代码" type="b2602c69:ProjectViewProjectNode" />
+              <item name="工程代码" type="462c0819:PsiDirectoryNode" />
+              <item name="05-springboot-dubbo-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="工程代码" type="b2602c69:ProjectViewProjectNode" />
+              <item name="工程代码" type="462c0819:PsiDirectoryNode" />
+              <item name="05-springboot-dubbo-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="工程代码" type="b2602c69:ProjectViewProjectNode" />
+              <item name="工程代码" type="462c0819:PsiDirectoryNode" />
+              <item name="05-springboot-dubbo-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="工程代码" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="F:/Git/bin/git.exe" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Application (2)">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration name="Application (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.wkcto.springboot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wkcto.springboot.Application" />
+      <module name="03-springboot-mybatis" />
+      <envs />
+    </configuration>
+    <configuration name="Application (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.wkcto.springboot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wkcto.springboot.Application" />
+      <module name="04-springboot-redis" />
+      <envs />
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wkcto.springboot.Application" />
+      <module name="01-springboot-web" />
+      <envs />
+    </configuration>
+    <configuration name="Application2" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wkcto.springboot.Application2" />
+      <module name="02-springboot-java" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue="Spring Boot.Application" />
+      <item index="1" class="java.lang.String" itemvalue="Spring Boot.Application2" />
+      <item index="2" class="java.lang.String" itemvalue="Spring Boot.Application (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Spring Boot.Application (2)" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Spring Boot.Application (2)" />
+        <item index="1" class="java.lang.String" itemvalue="Spring Boot.Application (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fdc3d103-8b25-4a28-a96a-d6c75c22da99" name="Default" comment="" />
+      <created>1606444057422</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606444057422</updated>
+      <workItem from="1606444061361" duration="617000" />
+      <workItem from="1606467226469" duration="3089000" />
+      <workItem from="1606698943485" duration="584000" />
+      <workItem from="1606699866842" duration="1183000" />
+      <workItem from="1606713823041" duration="9239000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="14712000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39956093" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3402854" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24895833" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/03-springboot-mybatis/src/main/java/com/wkcto/springboot/service/impl/StudentServiceImpl.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/01-springboot-web/src/main/java/com/wkcto/springboot/filter/HeFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-springboot-web/src/main/java/com/wkcto/springboot/filter/MyFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-springboot-web/src/main/java/com/wkcto/springboot/controller/HelloController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="30" column="30" lean-forward="false" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-springboot-web/src/main/resources/application-product.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-springboot-web/src/main/resources/application-dev.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="19" column="33" lean-forward="false" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-springboot-redis/src/test/java/com/wkcto/springboot/ApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-springboot-web/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-springboot-web/src/main/java/com/wkcto/springboot/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-springboot-web/src/main/java/com/wkcto/springboot/servlet/MyServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-springboot-web/src/main/java/com/wkcto/springboot/servlet/HeServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-springboot-web/src/main/java/com/wkcto/springboot/model/Users.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="667">
+          <caret line="41" column="5" lean-forward="false" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-springboot-web/src/main/java/com/wkcto/springboot/model/ConfigInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="12" column="17" lean-forward="false" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02-springboot-java/src/main/java/com/wkcto/springboot/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="17" lean-forward="false" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02-springboot-java/src/main/java/com/wkcto/springboot/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02-springboot-java/src/main/resources/banner.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02-springboot-java/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02-springboot-java/src/main/java/com/wkcto/springboot/Application2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05-springboot-dubbo-provider/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="622">
+          <caret line="123" column="12" lean-forward="false" selection-start-line="123" selection-start-column="12" selection-end-line="123" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.8.RELEASE/spring-web-5.0.8.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="129" column="0" lean-forward="false" selection-start-line="129" selection-start-column="0" selection-end-line="129" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.0.8.RELEASE/spring-webmvc-5.0.8.RELEASE.jar!/org/springframework/web/servlet/mvc/method/annotation/RequestMappingHandlerAdapter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="570" column="0" lean-forward="false" selection-start-line="570" selection-start-column="0" selection-end-line="570" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-springboot-mybatis/src/main/java/com/wkcto/springboot/model/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.0.8.RELEASE/spring-core-5.0.8.RELEASE.jar!/org/springframework/util/ReflectionUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="222" column="0" lean-forward="false" selection-start-line="222" selection-start-column="0" selection-end-line="222" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.0.8.RELEASE/spring-aop-5.0.8.RELEASE.jar!/org/springframework/aop/support/AopUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="80" column="0" lean-forward="false" selection-start-line="80" selection-start-column="0" selection-end-line="80" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.0.8.RELEASE/spring-aop-5.0.8.RELEASE.jar!/org/springframework/aop/target/SingletonTargetSource.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.0.8.RELEASE/spring-aop-5.0.8.RELEASE.jar!/org/springframework/aop/framework/JdkDynamicAopProxy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="115" column="0" lean-forward="false" selection-start-line="115" selection-start-column="0" selection-end-line="115" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.0.8.RELEASE/spring-aop-5.0.8.RELEASE.jar!/org/springframework/aop/framework/AdvisedSupport.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="146" column="0" lean-forward="false" selection-start-line="146" selection-start-column="0" selection-end-line="146" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.0.8.RELEASE/spring-aop-5.0.8.RELEASE.jar!/org/springframework/aop/framework/adapter/GlobalAdvisorAdapterRegistry.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.0.8.RELEASE/spring-aop-5.0.8.RELEASE.jar!/org/springframework/aop/framework/DefaultAdvisorChainFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.5/mybatis-3.4.5.jar!/org/apache/ibatis/binding/MapperProxy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="37" column="13" lean-forward="true" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-springboot-mybatis/src/main/java/com/wkcto/springboot/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-springboot-mybatis/src/main/resources/mapper/StudentMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="61" column="10" lean-forward="true" selection-start-line="61" selection-start-column="10" selection-end-line="61" selection-end-column="10" />
+          <folding>
+            <marker date="1533615603175" expanded="true" signature="644:747" ph="select from student" />
+            <marker date="1533615603175" expanded="true" signature="834:891" ph="delete from student... " />
+            <marker date="1533615603175" expanded="true" signature="983:1119" ph="insert into student... " />
+            <marker date="1533615603175" expanded="true" signature="1887:2128" ph="update student... " />
+            <marker date="1533615603175" expanded="true" signature="2232:2361" ph="update student... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-springboot-mybatis/src/main/java/com/wkcto/springboot/mapper/StudentMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="23" lean-forward="false" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-springboot-mybatis/src/main/java/com/wkcto/springboot/service/impl/StudentServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="42" column="44" lean-forward="true" selection-start-line="42" selection-start-column="29" selection-end-line="42" selection-end-column="44" />
+          <folding>
+            <element signature="e#705#706#0" expanded="false" />
+            <element signature="e#764#765#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-springboot-mybatis/src/main/java/com/wkcto/springboot/service/StudentService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="410">
+          <caret line="19" column="44" lean-forward="false" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-springboot-mybatis/src/main/java/com/wkcto/springboot/controller/StudentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="35" column="35" lean-forward="true" selection-start-line="35" selection-start-column="35" selection-end-line="35" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-springboot-web/src/main/java/com/wkcto/springboot/interceptor/LoginInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="34" column="20" lean-forward="true" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-springboot-redis/src/main/java/com/wkcto/springboot/mapper/StudentMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="30" column="29" lean-forward="false" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
+          <folding>
+            <marker date="1533615603175" expanded="true" signature="644:747" ph="select from student" />
+            <marker date="1533615603175" expanded="true" signature="834:891" ph="delete from student... " />
+            <marker date="1533615603175" expanded="true" signature="983:1119" ph="insert into student... " />
+            <marker date="1533615603175" expanded="true" signature="1887:2128" ph="update student... " />
+            <marker date="1533615603175" expanded="true" signature="2232:2361" ph="update student... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02-springboot-java/src/main/java/com/wkcto/springboot/service/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="21" column="1" lean-forward="false" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-springboot-mybatis/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="6" selection-end-column="110" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-springboot-redis/src/main/java/com/wkcto/springboot/mapper/StudentMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-springboot-redis/src/main/java/com/wkcto/springboot/model/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-springboot-redis/src/main/java/com/wkcto/springboot/controller/StudentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-springboot-redis/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="34" lean-forward="false" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.0.9.RELEASE/spring-data-redis-2.0.9.RELEASE.jar!/org/springframework/data/redis/core/RedisTemplate.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="775" column="33" lean-forward="false" selection-start-line="775" selection-start-column="33" selection-end-line="775" selection-end-column="33" />
+          <folding>
+            <marker date="1606473596713" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1606473596713" expanded="false" signature="159:2158" ph="..." />
+            <marker date="1606473596713" expanded="true" signature="3360:3367" ph="{}" />
+            <marker date="1606473596713" expanded="true" signature="3406:4746" ph="{...}" />
+            <marker date="1606473596713" expanded="false" signature="4811:4822" ph=" { " />
+            <marker date="1606473596713" expanded="false" signature="4877:4883" ph=" }" />
+            <marker date="1606473596713" expanded="true" signature="4975:5044" ph="{...}" />
+            <marker date="1606473596713" expanded="true" signature="5154:6583" ph="{...}" />
+            <marker date="1606473596713" expanded="true" signature="6638:7179" ph="{...}" />
+            <marker date="1606473596713" expanded="true" signature="7250:7326" ph="{...}" />
+            <marker date="1606473596713" expanded="true" signature="7444:8894" ph="{...}" />
+            <marker date="1606473596713" expanded="true" signature="7878:8774" ph="{...}" />
+            <marker date="1606473596713" expanded="true" signature="8962:9037" ph="{...}" />
+            <marker date="1606473596713" expanded="true" signature="9152:10036" ph="{...}" />
+            <marker date="1606473596713" expanded="true" signature="9204:10028" ph="{...}" />
+            <marker date="1606473596713" expanded="true" signature="10116:10187" ph="{...}" />
+            <marker date="1606473596713" expanded="true" signature="10339:10444" ph="{...}" />
+            <marker date="1606473596713" expanded="true" signature="10536:10999" ph="{...}" />
+            <marker date="1606473596713" expanded="false" signature="11062:11073" ph=" { " />
+            <marker date="1606473596713" expanded="false" signature="11102:11108" ph=" }" />
+            <marker date="1606473596713" expanded="true" signature="11187:11443" ph="{...}" />
+            <marker date="1606473596713" expanded="true" signature="11552:11586" ph="{...}" />
+            <marker date="1606473596713" expanded="true" signature="11710:11740" ph="{...}" />
+            <marker date="1606473596713" expanded="false" signature="11781:11792" ph=" { " />
+            <marker date="1606473596713" expanded="false" signature="11821:11827" ph=" }" />
+            <marker date="1606473596713" expanded="false" signature="11890:11901" ph=" { " />
+            <marker date="1606473596713" expanded="false" signature="11942:11948" ph=" }" />
+            <marker date="1606473596713" expanded="false" signature="11996:12007" ph=" { " />
+            <marker date="1606473596713" expanded="false" signature="12043:12049" ph=" }" />
+            <marker date="1606473596713" expanded="true" signature="12127:12198" ph="{...}" />
+            <marker date="1606473596713" expanded="false" signature="12266:12277" ph=" { " />
+            <marker date="1606473596713" expanded="false" signature="12307:12313" ph=" }" />
+            <marker date="1606473596713" expanded="false" signature="12382:12393" ph=" { " />
+            <marker date="1606473596713" expanded="false" signature="12429:12435" ph=" }" />
+            <marker date="1606473596713" expanded="false" signature="12500:12511" ph=" { " />
+            <marker date="1606473596713" expanded="false" signature="12543:12549" ph=" }" />
+            <marker date="1606473596713" expanded="false" signature="12599:12610" ph=" { " />
+            <marker date="1606473596713" expanded="false" signature="12636:12642" ph=" }" />
+            <marker date="1606473596713" expanded="false" signature="12709:12720" ph=" { " />
+            <marker date="1606473596713" expanded="false" signature="12754:12760" ph=" }" />
+            <marker date="1606473596713" expanded="false" signature="12812:12823" ph=" { " />
+            <marker date="1606473596713" expanded="false" signature="12851:12857" ph=" }" />
+            <marker date="1606473596713" expanded="false" signature="12911:12922" ph=" { " />
+            <marker date="1606473596713" expanded="false" signature="12952:12958" ph=" }" />
+            <marker date="1606473596713" expanded="true" signature="13035:13094" ph="{...}" />
+            <marker date="1606473596713" expanded="false" signature="13150:13161" ph=" { " />
+            <marker date="1606473596713" expanded="false" signature="13193:13199" ph=" }" />
+            <marker date="1606473596713" expanded="true" signature="13280:13343" ph="{...}" />
+            <marker date="1606473596713" expanded="false" signature="13401:13412" ph=" { " />
+            <marker date="1606473596713" expanded="false" signature="13441:13447" ph=" }" />
+            <marker date="1606473596713" expanded="true" signature="13527:13584" ph="{...}" />
+            <marker date="1606473596713" expanded="false" signature="13653:13664" ph=" { " />
+            <marker date="1606473596713" expanded="false" signature="13701:13707" ph=" }" />
+            <marker date="1606473596713" expanded="true" signature="13747:13936" ph="{...}" />
+            <marker date="1606473596713" expanded="false" signature="13978:13989" ph=" { " />
+            <marker date="1606473596713" expanded="false" signature="14033:14039" ph=" }" />
+            <marker date="1606473596713" expanded="true" signature="14083:14228" ph="{...}" />
+            <marker date="1606473596713" expanded="true" signature="14279:14540" ph="{...}" />
+            <marker date="1606473596713" expanded="true" signature="14585:14683" ph="{...}" />
+            <marker date="1606473596713" expanded="true" signature="14917:16213" ph="{...}" />
+            <marker date="1606473596713" expanded="true" signature="16304:16751" ph="{...}" />
+            <marker date="1606473596713" expanded="true" signature="16868:17366" ph="{...}" />
+            <marker date="1606473596713" expanded="true" signature="17399:17660" ph="{...}" />
+            <marker date="1606473596713" expanded="true" signature="17727:17846" ph="{...}" />
+            <marker date="1606473596713" expanded="true" signature="17885:18022" ph="{...}" />
+            <marker date="1606473596713" expanded="true" signature="18057:18297" ph="{...}" />
+            <marker date="1606473596713" expanded="true" signature="18158:18226" ph="{...}" />
+            <marker date="1606473596713" expanded="true" signature="18342:18621" ph="{...}" />
+            <marker date="1606473596713" expanded="true" signature="18534:18597" ph="{...}" />
+            <marker date="1606473596713" expanded="true" signature="18656:18824" ph="{...}" />
+            <marker date="1606473596713" expanded="true" signature="18753:18810" ph="{...}" />
+            <marker date="1606473596713" expanded="true" signature="18888:19297" ph="{...}" />
+            <marker date="1606473596713" expanded="true" signature="19049:19283" ph="{...}" />
+            <marker date="1606473596713" expanded="true" signature="19345:19683" ph="{...}" />
+            <marker date="1606473596713" expanded="true" signature="19442:19669" ph="{...}" />
+            <marker date="1606473596713" expanded="true" signature="19748:20066" ph="{...}" />
+            <marker date="1606473596713" expanded="true" signature="19960:20052" ph="{...}" />
+            <marker date="1606473596713" expanded="true" signature="20101:20263" ph="{...}" />
+            <marker date="1606473596713" expanded="true" signature="20195:20249" ph="{...}" />
+            <marker date="1606473596713" expanded="true" signature="20317:20622" ph="{...}" />
+            <marker date="1606473596713" expanded="true" signature="20411:20608" ph="{...}" />
+            <marker date="1606473596713" expanded="true" signature="20658:20954" ph="{...}" />
+            <marker date="1606473596713" expanded="true" signature="20770:20825" ph="{...}" />
+            <marker date="1606473596713" expanded="true" signature="20990:21159" ph="{...}" />
+            <marker date="1606473596713" expanded="true" signature="21087:21145" ph="{...}" />
+            <marker date="1606473596713" expanded="true" signature="21205:21380" ph="{...}" />
+            <marker date="1606473596713" expanded="true" signature="21302:21366" ph="{...}" />
+            <marker date="1606473596713" expanded="true" signature="21407:21539" ph="{...}" />
+            <marker date="1606473596713" expanded="true" signature="21584:21822" ph="{...}" />
+            <marker date="1606473596713" expanded="true" signature="21719:21808" ph="{...}" />
+            <marker date="1606473596713" expanded="true" signature="21878:22116" ph="{...}" />
+            <marker date="1606473596713" expanded="true" signature="22029:22102" ph="{...}" />
+            <marker date="1606473596713" expanded="true" signature="22150:22317" ph="{...}" />
+            <marker date="1606473596713" expanded="true" signature="22248:22303" ph="{...}" />
+            <marker date="1606473596713" expanded="true" signature="22349:22514" ph="{...}" />
+            <marker date="1606473596713" expanded="true" signature="22445:22500" ph="{...}" />
+            <marker date="1606473596713" expanded="true" signature="22593:22850" ph="{...}" />
+            <marker date="1606473596713" expanded="true" signature="22741:22836" ph="{...}" />
+            <marker date="1606473596713" expanded="true" signature="22876:22997" ph="{...}" />
+            <marker date="1606473596713" expanded="true" signature="22915:22983" ph="{...}" />
+            <marker date="1606473596713" expanded="true" signature="23025:23148" ph="{...}" />
+            <marker date="1606473596713" expanded="true" signature="23064:23134" ph="{...}" />
+            <marker date="1606473596713" expanded="true" signature="23179:23362" ph="{...}" />
+            <marker date="1606473596713" expanded="true" signature="23260:23348" ph="{...}" />
+            <marker date="1606473596713" expanded="true" signature="23406:23581" ph="{...}" />
+            <marker date="1606473596713" expanded="true" signature="23492:23567" ph="{...}" />
+            <marker date="1606473596713" expanded="true" signature="23609:23732" ph="{...}" />
+            <marker date="1606473596713" expanded="true" signature="23648:23718" ph="{...}" />
+            <marker date="1606473596713" expanded="false" signature="23777:23788" ph=" { " />
+            <marker date="1606473596713" expanded="false" signature="23834:23840" ph=" }" />
+            <marker date="1606473596713" expanded="true" signature="23937:24290" ph="{...}" />
+            <marker date="1606473596713" expanded="true" signature="24142:24205" ph="{...}" />
+            <marker date="1606473596713" expanded="true" signature="24369:24443" ph="{...}" />
+            <marker date="1606473596713" expanded="true" signature="24572:25340" ph="{...}" />
+            <marker date="1606473596713" expanded="true" signature="25395:25729" ph="{...}" />
+            <marker date="1606473596713" expanded="true" signature="25639:25715" ph="{...}" />
+            <marker date="1606473596713" expanded="true" signature="25781:25911" ph="{...}" />
+            <marker date="1606473596713" expanded="true" signature="25820:25903" ph="{...}" />
+            <marker date="1606473596713" expanded="false" signature="25961:25972" ph=" { " />
+            <marker date="1606473596713" expanded="false" signature="26034:26040" ph=" }" />
+            <marker date="1606473596713" expanded="true" signature="26089:26216" ph="{...}" />
+            <marker date="1606473596713" expanded="true" signature="26128:26208" ph="{...}" />
+            <marker date="1606473596713" expanded="true" signature="26249:26371" ph="{...}" />
+            <marker date="1606473596713" expanded="true" signature="26288:26363" ph="{...}" />
+            <marker date="1606473596713" expanded="false" signature="26423:26434" ph=" { " />
+            <marker date="1606473596713" expanded="false" signature="26476:26482" ph=" }" />
+            <marker date="1606473596713" expanded="true" signature="26527:26666" ph="{...}" />
+            <marker date="1606473596713" expanded="false" signature="26722:26733" ph=" { " />
+            <marker date="1606473596713" expanded="false" signature="26781:26787" ph=" }" />
+            <marker date="1606473596713" expanded="true" signature="26860:26925" ph="{...}" />
+            <marker date="1606473596713" expanded="false" signature="26985:26996" ph=" { " />
+            <marker date="1606473596713" expanded="false" signature="27035:27041" ph=" }" />
+            <marker date="1606473596713" expanded="true" signature="27102:27249" ph="{...}" />
+            <marker date="1606473596713" expanded="true" signature="27296:27439" ph="{...}" />
+            <marker date="1606473596713" expanded="false" signature="27497:27508" ph=" { " />
+            <marker date="1606473596713" expanded="false" signature="27557:27563" ph=" }" />
+            <marker date="1606473596713" expanded="false" signature="27619:27630" ph=" { " />
+            <marker date="1606473596713" expanded="false" signature="27678:27684" ph=" }" />
+            <marker date="1606473596713" expanded="true" signature="27729:27868" ph="{...}" />
+            <marker date="1606473596713" expanded="false" signature="27928:27939" ph=" { " />
+            <marker date="1606473596713" expanded="false" signature="27989:27995" ph=" }" />
+            <marker date="1606473596713" expanded="true" signature="28044:28191" ph="{...}" />
+            <marker date="1606473596713" expanded="false" signature="28249:28260" ph=" { " />
+            <marker date="1606473596713" expanded="false" signature="28309:28315" ph=" }" />
+            <marker date="1606473596713" expanded="true" signature="28362:28505" ph="{...}" />
+            <marker date="1606473596713" expanded="true" signature="28585:28658" ph="{...}" />
+            <marker date="1606473596713" expanded="false" signature="28719:28730" ph=" { " />
+            <marker date="1606473596713" expanded="false" signature="28761:28767" ph=" }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-springboot-redis/04-springboot-redis.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-springboot-redis/mvnw">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-springboot-redis/mvnw.cmd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-springboot-redis/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-828">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-springboot-redis/src/main/java/com/wkcto/springboot/service/impl/StudentServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="44" column="33" lean-forward="false" selection-start-line="44" selection-start-column="33" selection-end-line="44" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-springboot-redis/src/main/java/com/wkcto/springboot/service/StudentService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="13" column="17" lean-forward="false" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-springboot-redis/src/main/java/com/wkcto/springboot/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArquillianSettingsConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="Copyright.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
